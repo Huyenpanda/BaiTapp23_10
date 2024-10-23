@@ -1,0 +1,10 @@
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_SanPham2310.csproj.AssemblyReference.cache
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_Them_Sua_Xoa2310.Form1.resources
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_Them_Sua_Xoa2310.Properties.Resources.resources
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_SanPham2310.csproj.GenerateResource.cache
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_SanPham2310.csproj.CoreCompileInputs.cache
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\bin\Debug\Winform_Them_Sua_Xoa2310.exe.config
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\bin\Debug\Winform_Them_Sua_Xoa2310.exe
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\bin\Debug\Winform_Them_Sua_Xoa2310.pdb
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_Them_Sua_Xoa2310.exe
+C:\Users\Huyen\source\repos\Winform_Them_Sua_Xoa2310\Winform_Them_Sua_Xoa2310\obj\Debug\Winform_Them_Sua_Xoa2310.pdb
