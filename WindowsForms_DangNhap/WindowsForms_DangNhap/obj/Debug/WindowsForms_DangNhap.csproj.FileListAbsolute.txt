@@ -1,0 +1,10 @@
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\bin\Debug\WindowsForms_DangNhap.exe.config
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\bin\Debug\WindowsForms_DangNhap.exe
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\bin\Debug\WindowsForms_DangNhap.pdb
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.csproj.AssemblyReference.cache
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.Form1.resources
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.Properties.Resources.resources
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.csproj.GenerateResource.cache
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.csproj.CoreCompileInputs.cache
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.exe
+C:\Users\Huyen\source\repos\WindowsForms_DangNhap\WindowsForms_DangNhap\obj\Debug\WindowsForms_DangNhap.pdb
