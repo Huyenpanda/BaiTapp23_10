@@ -1,0 +1,10 @@
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.csproj.AssemblyReference.cache
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.Form1.resources
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.Properties.Resources.resources
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.csproj.GenerateResource.cache
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.csproj.CoreCompileInputs.cache
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\bin\Debug\UngDungBanHang30_10.exe.config
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\bin\Debug\UngDungBanHang30_10.exe
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\bin\Debug\UngDungBanHang30_10.pdb
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.exe
+C:\Users\Huyen\source\repos\UngDungBanHang30_10\UngDungBanHang30_10\obj\Debug\UngDungBanHang30_10.pdb
